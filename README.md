@@ -28,7 +28,7 @@ Source: https://42crunch.com/6-pillars-of-api-security/
 
 | Tool     | Description                     | Swagger (formely OpenAPI 2.0) | OpenAPI 3.0.* | OpenAPI 3.1.* | Github                               | License            |
 | -------- | ------------------------------- | ----------------------------- | ------------- | ------------- | ------------------------------------ | ------------------ |
-| APKLeaks | Finding paths, secrets from apk | +                             | +             | +             | https://github.com/wireghoul/graudit | Apache-2.0 license |
+| APKLeaks | Finding paths, secrets from apk | +                             | +             | +             | https://github.com/dwisiswant0/apkleaks | Apache-2.0 license |
 
 ### API from Code
 
