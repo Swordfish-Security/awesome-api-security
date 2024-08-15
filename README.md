@@ -44,7 +44,7 @@ Source: https://42crunch.com/6-pillars-of-api-security/
 | ------------------------ | --------------------------------------- | ----------------------------- | ------------- | ------------- | ----------------------------------------------- | ---------------- |
 | akto                     |                                         |                               |               |               |                                                 |                  |
 | metlo                    |                                         |                               |               |               |                                                 |                  |
-| mitmproxy + mitm2swagger |                                         | +                             | +             | +             | https://github.com/wireghoul/graudit            | GPL-3.0 license  |
+| mitmproxy + mitm2swagger |                                         | +                             | +             | +             | https://github.com/alufers/mitmproxy2swagger            | GPL-3.0 license  |
 | AutoSpec                 | Identifies endpoints by static analysis | +                             | +             | +             | https://github.com/Adawg4/openapi-autospec      | MIT license      |
 | OpenAPI DevTools         |                                         |                               |               |               | https://github.com/AndrewWalsh/openapi-devtools | LGPL-3.0 license |
 
