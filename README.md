@@ -1,7 +1,5 @@
 # API Security Awesome
 
-<span style='font-family: "Lucida Console";line-height: 14px;font-size: 14px;display: inline-block;'>&nbsp;▄▄▄·&nbsp;▄▄▌&nbsp;▐&nbsp;▄▌▄▄▄&nbsp;..▄▄&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;▌&nbsp;▄&nbsp;·.&nbsp;▄▄▄&nbsp;.&nbsp;&nbsp;&nbsp;▄▄▄·&nbsp;&nbsp;▄▄▄·▪&nbsp;&nbsp;&nbsp;&nbsp;.▄▄&nbsp;·&nbsp;▄▄▄&nbsp;.&nbsp;▄▄·&nbsp;▄•&nbsp;▄▌▄▄▄&nbsp;&nbsp;▪&nbsp;&nbsp;▄▄▄▄▄&nbsp;▄·&nbsp;▄▌<br>▐█&nbsp;▀█&nbsp;██·&nbsp;█▌▐█▀▄.▀·▐█&nbsp;▀.&nbsp;&nbsp;▄█▀▄&nbsp;·██&nbsp;▐███▪▀▄.▀·&nbsp;&nbsp;▐█&nbsp;▀█&nbsp;▐█&nbsp;▄███&nbsp;&nbsp;&nbsp;▐█&nbsp;▀.&nbsp;▀▄.▀·▐█&nbsp;▌▪█▪██▌▀▄&nbsp;█·██&nbsp;•██&nbsp;&nbsp;▐█▪██▌<br>▄█▀▀█&nbsp;██▪▐█▐▐▌▐▀▀▪▄▄▀▀▀█▄▐█▌.▐▌▐█&nbsp;▌▐▌▐█·▐▀▀▪▄&nbsp;&nbsp;▄█▀▀█&nbsp;&nbsp;██▀·▐█·&nbsp;&nbsp;▄▀▀▀█▄▐▀▀▪▄██&nbsp;▄▄█▌▐█▌▐▀▀▄&nbsp;▐█·&nbsp;▐█.▪▐█▌▐█▪<br>▐█&nbsp;▪▐▌▐█▌██▐█▌▐█▄▄▌▐█▄▪▐█▐█▌.▐▌██&nbsp;██▌▐█▌▐█▄▄▌&nbsp;&nbsp;▐█&nbsp;▪▐▌▐█▪·•▐█▌&nbsp;&nbsp;▐█▄▪▐█▐█▄▄▌▐███▌▐█▄█▌▐█•█▌▐█▌&nbsp;▐█▌·&nbsp;▐█▀·.<br>&nbsp;▀&nbsp;&nbsp;▀&nbsp;&nbsp;▀▀▀▀&nbsp;▀▪&nbsp;▀▀▀&nbsp;&nbsp;▀▀▀▀&nbsp;&nbsp;▀█▄▀▪▀▀&nbsp;&nbsp;█▪▀▀▀&nbsp;▀▀▀&nbsp;&nbsp;&nbsp;&nbsp;▀&nbsp;&nbsp;▀&nbsp;.▀&nbsp;&nbsp;&nbsp;▀▀▀&nbsp;&nbsp;&nbsp;▀▀▀▀&nbsp;&nbsp;▀▀▀&nbsp;·▀▀▀&nbsp;&nbsp;▀▀▀&nbsp;.▀&nbsp;&nbsp;▀▀▀▀&nbsp;▀▀▀&nbsp;&nbsp;&nbsp;▀&nbsp;•&nbsp;<br></span>
-
 ![-----------------------------------------------------](https://raw.githubusercontent.com/inspectorsecurity/awesome-api-security/main/assets/aqua-line.png)
 
 
