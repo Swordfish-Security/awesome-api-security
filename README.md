@@ -1,13 +1,13 @@
 # API Security Awesome
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/inspectorsecurity/awesome-api-security/main/assets/aqua-line.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/Swordfish-Security/awesome-api-security/main/assets/aqua-line.png)
 
 
-![](https://raw.githubusercontent.com/inspectorsecurity/awesome-api-security/main/assets/api-security-pillars.png)
+![](https://raw.githubusercontent.com/Swordfish-Security/awesome-api-security/main/assets/api-security-pillars.png)
 
-![](https://raw.githubusercontent.com/inspectorsecurity/awesome-api-security/main/assets/api-security-pillars-all.png)
+![](https://raw.githubusercontent.com/Swordfish-Security/awesome-api-security/main/assets/api-security-pillars-all.png)
 Source: https://42crunch.com/6-pillars-of-api-security/
-![-----------------------------------------------------](https://raw.githubusercontent.com/inspectorsecurity/awesome-api-security/main/assets/aqua-line.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/Swordfish-Security/awesome-api-security/main/assets/aqua-line.png)
 ## API Design
 
 ### OpenAPI Documentation
@@ -20,7 +20,7 @@ Source: https://42crunch.com/6-pillars-of-api-security/
 | TypeDocs                 |                     |           |             |                                  |         |
 |                          |                     |           |             |                                  |         |
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/inspectorsecurity/awesome-api-security/main/assets/aqua-line.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/Swordfish-Security/awesome-api-security/main/assets/aqua-line.png)
 
 ## API Inventory
 
@@ -48,7 +48,7 @@ Source: https://42crunch.com/6-pillars-of-api-security/
 | AutoSpec                 | Identifies endpoints by static analysis | +                             | +             | +             | https://github.com/Adawg4/openapi-autospec      | MIT license      |
 | OpenAPI DevTools         |                                         |                               |               |               | https://github.com/AndrewWalsh/openapi-devtools | LGPL-3.0 license |
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/inspectorsecurity/awesome-api-security/main/assets/aqua-line.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/Swordfish-Security/awesome-api-security/main/assets/aqua-line.png)
 ## API Development
 
 ### OpenAPI Parsers 
@@ -141,7 +141,7 @@ Source: https://42crunch.com/6-pillars-of-api-security/
 | GUID Reaper |                     |               |               | https://gist.github.com/DanaEpp/8c6803e542f094da5c4079622f9b4d18 |         |       |
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/inspectorsecurity/awesome-api-security/main/assets/aqua-line.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/Swordfish-Security/awesome-api-security/main/assets/aqua-line.png)
 ## API Testing
 
 ### OpenAPI Tester
@@ -184,7 +184,7 @@ Source: https://42crunch.com/6-pillars-of-api-security/
 | yandex-tank |                     |           |             | https://github.com/yandex/yandex-tank |         |       |
 | jMeter      |                     |           |             |                                       |         |       |
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/inspectorsecurity/awesome-api-security/main/assets/aqua-line.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/Swordfish-Security/awesome-api-security/main/assets/aqua-line.png)
 
 ## API Protection
 
@@ -209,7 +209,7 @@ Source: https://42crunch.com/6-pillars-of-api-security/
 | wallarm |                     |           |             | <br>   | Commerce |
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/inspectorsecurity/awesome-api-security/main/assets/aqua-line.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/Swordfish-Security/awesome-api-security/main/assets/aqua-line.png)
 
 ## API Governance
 
@@ -230,13 +230,13 @@ Source: https://42crunch.com/6-pillars-of-api-security/
 | Gravitee.io      | +                   | +         | +           | https://github.com/gravitee-io       |         |       |
 | WSO2 API Manager | +                   | +         | +           | https://github.com/wso2/product-apim |         |       |
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/inspectorsecurity/awesome-api-security/main/assets/aqua-line.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/Swordfish-Security/awesome-api-security/main/assets/aqua-line.png)
 
 ## Contributions
 
 Let's go
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/inspectorsecurity/awesome-api-security/main/assets/aqua-line.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/Swordfish-Security/awesome-api-security/main/assets/aqua-line.png)
 
 ## Resources
 
@@ -245,7 +245,7 @@ Let's go
 - https://nordicapis.com/
 - https://apisecurity.io/
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/inspectorsecurity/awesome-api-security/main/assets/aqua-line.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/Swordfish-Security/awesome-api-security/main/assets/aqua-line.png)
 
 ## Backlog
 
@@ -254,4 +254,4 @@ Let's go
 - [ ] Add tools for GraphQL, Blueprint etc. 
 - [ ] Specify which vulnerabilities from OWASP can be closed
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/inspectorsecurity/awesome-api-security/main/assets/aqua-line.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/Swordfish-Security/awesome-api-security/main/assets/aqua-line.png)
