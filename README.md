@@ -221,6 +221,7 @@ Source: https://42crunch.com/6-pillars-of-api-security/
 | ----- | ------------------- | --------- | ----------- | ----------------------------------------- | ------- | ----- |
 | akto  | +                   | +         | +           | https://github.com/akto-api-security/akto |         |       |
 | metlo | +                   | +         | +           | https://github.com/metlo-labs/metlo       |         |       |
+| [WebDecoy API Honeypots](https://webdecoy.com/product/endpoints/) | | | | [SDK](https://github.com/WebDecoy/node) | Commercial service | |
 ### API Management Platform
 
 **Purpose**: Develop API, Publish API, Detect API attacks in real time, API testing, API gateway, Monitor API, Control Access API.
